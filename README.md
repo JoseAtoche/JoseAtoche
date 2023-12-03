@@ -24,7 +24,7 @@
 - **Web:** Desarrollo web, Web Services API
 - **Otros:** Desarrollo Android
 
-## 🇪🇸 🇺🇸 Idiomas
+## :white_check_mark: Idiomas
 
 - **Español:** Nativo
 - **Inglés:** Avanzado
