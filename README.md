@@ -31,7 +31,7 @@
 
 ## 📧 Contacto
 
-- 📫 **Cómo contactarme:** atochejoseangel@gmaiñ.com
+- 📫 **Cómo contactarme:** atochejoseangel@gmail.com
 
 ## En este momento...
 
