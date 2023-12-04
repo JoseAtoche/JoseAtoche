@@ -8,7 +8,7 @@
 ### 📚 Desarrollador de Aplicaciones Web para Escuelas (Educamos)
 - Contribuí al desarrollo de nuevas características y solución de problemas en el sistema de gestión escolar Educamos.
 - Gestioné Bugs y PBIs en Jira, asegurando la calidad y estabilidad del software.
-- Trabajé con tecnologías como DevOps, ASP.NET, Azure, Node.js, .NET Core, Jquery, SQL Server, y más.
+- Trabajé con tecnologías como DevOps, ASP.NET, Azure, Node.js, .NET Core, Jquery, SQL Server, APIs, HangFire y más.
 - Implementé con éxito integraciones con Teams y Classroom, mejorando la eficiencia en la gestión de tareas.
 
 ### 🩸 Desarrollador de Soluciones para la Trazabilidad de Productos en el Sector Sanitario mediante RFID
