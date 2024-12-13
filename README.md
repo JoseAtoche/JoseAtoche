@@ -20,7 +20,7 @@
 
 ## 📝 Aptitudes
 
-- **Lenguajes y Frameworks:** .NET Core, .NET Framework, Java, C#
+- **Lenguajes y Frameworks:** .NET Core, ASP.NET, .NET Framework, Java, C#
 - **Web:** Desarrollo web, Web Services API
 - **Otros:** Desarrollo Android
 
@@ -35,9 +35,9 @@
 
 ## En este momento...
 
-🔭 **Trabajando en:** Grupo SM
+🔭 **Trabajando en:** Tenth Revolution Group
 
-🌱 **Aprendiendo:** .Net Core
+🌱 **Aprendiendo:** CosmosDB
 
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades futuras y la posibilidad de colaborar en proyectos interesantes. ¡No dudes en contactarme para cualquier pregunta o colaboración! 😊
