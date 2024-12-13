@@ -1,43 +1,53 @@
+# ¡Hola! Soy José 👋  
+¡Bienvenido a mi repositorio de GitHub! Soy un **Senior Backend Developer** con más de 5 años de experiencia en el desarrollo de soluciones tecnológicas, especializado en el ecosistema .NET. A lo largo de mi carrera, he trabajado en sectores como el financiero, educativo y sanitario, liderando proyectos y equipos para crear aplicaciones escalables y de alta calidad.
 
-# Hola, soy José 👋
+## 🌟 Sobre mí  
+- **Apasionado por la tecnología:** Desde joven, desmontar y entender cómo funcionaban los ordenadores despertó mi interés por el desarrollo de software.  
+- **Trabajo en equipo:** Creo firmemente que compartir conocimientos y mantener un buen ambiente laboral es clave para el éxito.  
+- **En constante aprendizaje:** Actualmente estoy perfeccionando mi inglés (nivel B2 a C2) y explorando tecnologías como **CosmosDB** y **Machine Learning**.  
 
-¡Bienvenido a mi repositorio de GitHub! Soy un apasionado desarrollador de aplicaciones multiplataforma con experiencia en proyectos extensos. Siempre estoy buscando oportunidades desafiantes que me permitan seguir aprendiendo y mejorando como profesional del sector. Me encanta trabajar en equipo y compartir conocimientos para lograr los mejores resultados en cada proyecto.
+---
 
-## 💻 Experiencia Profesional
+## 💻 Experiencia profesional destacada  
 
-### 📚 Desarrollador de Aplicaciones Web para Escuelas (Educamos)
-- Contribuí al desarrollo de nuevas características y solución de problemas en el sistema de gestión escolar Educamos.
-- Gestioné Bugs y PBIs en Jira, asegurando la calidad y estabilidad del software.
-- Trabajé con tecnologías como DevOps, ASP.NET, Azure, Node.js, .NET Core, Jquery, SQL Server, APIs, HangFire y más.
-- Implementé con éxito integraciones con Teams y Classroom, mejorando la eficiencia en la gestión de tareas.
+### **Senior Backend Developer** | *Tenth Revolution Group*  
+📅 **julio 2024 - actualidad**  
+- Desarrollo de una aplicación desde cero utilizando **.NET 8** y arquitectura de microservicios.  
+- Implementación de **Clean Code** y **Clean Architecture** para garantizar la sostenibilidad del proyecto.  
+- Uso de **Azure DevOps** para CI/CD y despliegue con **Docker** y **Kubernetes**.  
 
-### 🩸 Desarrollador de Soluciones para la Trazabilidad de Productos en el Sector Sanitario mediante RFID
-- Diseñé, desarrollé y mantuve software de alta calidad para la trazabilidad y seguimiento de productos en el sector sanitario.
-- Utilicé tecnologías como Java, Oracle, C#.NET, ASP.NET MVC, AngularJs, y más.
-- Modifiqué bases de datos y vistas web para mejorar la eficiencia y experiencia del usuario.
-- Realicé pruebas exhaustivas de dispositivos y software, garantizando la calidad y satisfacción del cliente.
-- Brindé soporte técnico, integré con éxito el software con ERP, y mantuve servidores en máquinas virtuales.
+### **FullStack Developer** | *Exceltic (Educamos - Grupo SM)*  
+📅 **agosto 2021 - julio 2024**  
+- Liderazgo técnico en la plataforma Educamos, gestionando equipos y optimizando bases de datos mediante procedimientos almacenados.  
+- Integración de **Teams** y **Google Classroom**, y uso de **HangFire** para tareas en segundo plano.  
 
-## 📝 Aptitudes
+### **Junior FullStack Developer** | *AT-Biotech*  
+📅 **marzo 2020 - agosto 2021**  
+- Desarrollo de sistemas de trazabilidad para el sector sanitario utilizando **RFID** y tecnologías .NET.  
+- Implementación de soluciones personalizadas y soporte técnico en tiempo real.  
 
-- **Lenguajes y Frameworks:** .NET Core, ASP.NET, .NET Framework, Java, C#
-- **Web:** Desarrollo web, Web Services API
-- **Otros:** Desarrollo Android
+---
 
-## :white_check_mark: Idiomas
+## 📝 Aptitudes técnicas  
 
-- **Español:** Nativo
-- **Inglés:** Avanzado
+| **Categoría**             | **Tecnologías**                                                                          | **Años** | **Nivel**  |  
+|---------------------------|-----------------------------------------------------------------------------------------|----------|------------|  
+| Desarrollo Backend        | **.NET Core, ASP.NET, SQL Server, Entity Framework, Microservicios, Redis Cache**      | 5+       | ⭐⭐⭐⭐       |  
+| Desarrollo Frontend       | **AngularJS, Blazor/Razor, ReactJS, TypeScript**                                        | 3        | ⭐⭐⭐        |  
+| Infraestructura y DevOps  | **Docker, Kubernetes, Azure DevOps**                                                   | 2        | ⭐⭐         |  
 
-## 📧 Contacto
+---
 
-- 📫 **Cómo contactarme:** atochejoseangel@gmail.com
+## ✅ Idiomas  
+- **Español:** Nativo  
+- **Inglés:** Avanzado (B2) en proceso de alcanzar C2.  
 
-## En este momento...
+---
 
-🔭 **Trabajando en:** Tenth Revolution Group
+## 📫 Contacto  
+- 📧 **Email:** atochejoseangel@gmail.com  
+- 🌐 **LinkedIn:** [linkedin.com/in/jose-atoche](https://linkedin.com/in/jose-atoche)  
 
-🌱 **Aprendiendo:** CosmosDB
+---
 
-
-¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades futuras y la posibilidad de colaborar en proyectos interesantes. ¡No dudes en contactarme para cualquier pregunta o colaboración! 😊
+¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades futuras y siempre abierto a colaborar en proyectos desafiantes. 😊
